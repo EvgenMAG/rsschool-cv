@@ -57,10 +57,10 @@ function match(candidate, job) {
 
 ### **Education and courses:**
 
-#### **FULL STACK DEVELOPER** \
+#### **FULL STACK DEVELOPER** 
 ##### IT school GOIT | *2020 - 2021*
 
-#### **BACHELOR OF MAGISTR, MAJOR IN AUDIO-VIDEO AND CINEMA TECHNIC Igor** \
+#### **BACHELOR OF MAGISTR, MAJOR IN AUDIO-VIDEO AND CINEMA TECHNIC Igor** 
 ##### Sikorsky Kyiv Polytechnic Institute | *2003 - 2007*
 
 ### **Language:**
